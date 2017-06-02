@@ -15,6 +15,10 @@
     Before run project, create Google Cloud Platform Free-Trial account
 [Google Cloud Platform Free-Trial](https://cloud.google.com/free/)
 
+    Configure Google Account Project
+
+[Quickstart for Java in the App Engine Flexible Environment](https://cloud.google.com/java/getting-started/hello-world)
+
     Create new project Google Developer Apis Console
 [Google Developer Apis Console](https://console.developers.google.com/apis)
 
@@ -33,10 +37,6 @@ cd gcloud-docker-spring-boot-jpa-starter
 #### Download GCloud SDK
 
 [Google Cloud SDK Client Download](https://cloud.google.com/sdk/downloads)
-
-#### Configure Google Account Project
-
-[Quickstart for Java in the App Engine Flexible Environment](https://cloud.google.com/java/getting-started/hello-world)
 
 ```sh
 
